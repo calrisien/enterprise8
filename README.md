@@ -6,6 +6,6 @@ Powerful Software
 
 ### Welcome to the repository
 
-Feel free to access [my portfolio](https://www.google.com)
+Feel free to access [my portfolio](https://www.google.com).
 
-> ## block quote headline
+> ## this is a block quote
